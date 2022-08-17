@@ -273,4 +273,10 @@ iframe{
     margin: 1em auto;
 }
 
+@media screen and (max-width:480px){
+    .caja, .principal ,.mapa-contenido, .diferenciales, .contenido-diferenciales, .video{
+        width: auto;
+    }
+}
+    
 
